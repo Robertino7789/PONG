@@ -1,0 +1,7 @@
+For any modifications for the game,
+you should apply to these rules:
+
+1. Audio files should only be in .wav extension
+2. Any images should only be in .png extention
+3. Modding the game and revealing it as "new" one
+  is highly prohibited.
